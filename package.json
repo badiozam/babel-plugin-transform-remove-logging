@@ -1,0 +1,14 @@
+{
+  "name": "babel-plugin-transform-remove-logging",
+  "version": "0.1",
+  "description": "Remove all debug calls.",
+  "keywords": [
+    "babel-plugin"
+  ],
+  "homepage": "https://github.com/badiozam/babel-plugin-transform-remove-logging",
+  "bugs": "https://github.com/badiozam/babel-plugin-transform-remove-logging/issues",
+  "license": "MIT",
+  "author": "badiozam",
+  "main": "lib/index.js",
+  "repository": "https://github.com/badiozam/babel-plugin-transform-remove-logging"
+}
